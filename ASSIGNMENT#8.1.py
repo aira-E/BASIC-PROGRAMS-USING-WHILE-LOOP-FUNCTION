@@ -27,3 +27,6 @@ while a == True:
     if another_ticket == 'n':
         a == False
         break
+    else:
+        a == False
+        break
